@@ -1,2 +1,2 @@
-# PBO_1
+# PBO
 kumpulan tugas MK Pemrograman Berorientasi Objek
